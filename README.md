@@ -1,6 +1,6 @@
 # 臺灣團膳顧問營養師會談指南
 
-**匿名版｜v1.0.1｜資料查核截止：2026/10/17（臺北時間）**
+**匿名版｜v1.0.2｜資料查核截止：2026/10/17（臺北時間）**
 
 這份指南協助營養師準備團膳顧問初談，涵蓋場址／登記、GHP 與 HACCP、人員法定角色、政府及企業採購、顧問費拆項、合約自保與會談檢核。
 
@@ -9,17 +9,16 @@
 - `index.html`：手機可讀互動版，含會談檢核清單、章節選單及自訂費用試算。
 - `report.pdf`：高對比、粗體中文排版的完整指南。
 - `report.md`：網頁與 PDF 共用的內容底稿。
-- GitHub repository：`https://github.com/s8762999999-design/catering-dietitian-consult-guide-tw`（私人 repository；GitHub Pages 已停用，不提供公開網頁）。
+- GitHub repository：`https://github.com/s8762999999-design/catering-dietitian-consult-guide-tw`（公開 repository；GitHub Pages：https://s8762999999-design.github.io/catering-dietitian-consult-guide-tw/）。
 
 ## 使用限制與隱私
 
-本指南提供一般資訊，不是法律意見；未查核任何特定業者、場址或招標文件。所有場址資格、人員配置與投標條件，應依現行法規、主管機關認定及個案招標文件確認。本文件不含業者名稱或地址。此版 repository 設為私人，未對外公開。
+本指南提供一般資訊，不是法律意見；未查核任何特定業者、場址或招標文件。所有場址資格、人員配置與投標條件，應依現行法規、主管機關認定及個案招標文件確認。本文件不含業者名稱或地址。v1.0.1 初次部署時 repository 為私人；依使用者確認，v1.0.2 已改為公開並啟用 Pages。
 
 ## 版本
 
 - **v1.0｜2026/10/17**：新增食品工廠專任衛生管理人員、營養師通訊執業界線、採購分包風險、會談清單與合約檢核。
 - **v1.0.1｜2026/10/17**：完成 Antigravity 的 HTML／法規連結原始碼審查修正，補入 2025 年 GHP 修正、學校外包營養師執業執照資格與四項網頁改善。
 
----
+- **v1.0.2｜2026/10/17**：依使用者確認公開 repository 並啟用 GitHub Pages；更新公開狀態與版本說明，研究內容未更動。
 
-**[亮亮營養師 AI研究開發]**
